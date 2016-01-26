@@ -13,3 +13,7 @@ Example usage of filtering functionality in header.
 You need:
  * python2
  * lxml
+
+An example of output is provided in the folder examples/mgn-1. What that is should be predictable.
+
+Licensing? Bah. If you're really a legal freak, then WTFPL. To summarize, I don't care.
