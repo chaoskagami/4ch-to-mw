@@ -14,8 +14,10 @@ You need:
  * python2
  * lxml
 
-An example of output is provided in the folder examples/mgn-2. What that is should be predictable.
+An example of output is provided in the folder examples/mgn-1. What that is should be predictable (MGN thread 1)
 
-This tool does not filter duplicate images. I wish it could, sorry.
+This tool does not filter duplicate images. I wish it could, sorry. Also, because of the way the dumps are generated, you need to ignore mediawiki's suggestion to import pages first.
+
+** Import images first. IMAGES FIRST. ** Got it? Good.
 
 Licensing? Bah. If you're really a legal freak, then WTFPL. To summarize, I don't care.
